@@ -13,4 +13,10 @@ function getComputerChoice()
         console.log("paper");
     }
 }
+let answer;
+function getHumanChoice()
+{
+    answer= prompt("ENTER YOUR CHOICE");
+}
+getHumanChoice();
 getComputerChoice();
