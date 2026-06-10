@@ -1,1 +1,1 @@
-# javascript-project
+This is a project based on javascript: Rock Paper Scissors. This project uses simple javascript without any GUI or user interface with outputs in developer's console
